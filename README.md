@@ -16,27 +16,7 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
 
-## LinkorNot ##
-
-## To have opinion collected on the questions user raised ##
+## Youtube Player using React/Redux ##
 
 ## Summary ##
-  > An App allows user to add questions to recieve thumb ups or thumb downs from other users, and to see the result statistics. This is the minimum viable product developed with M.E.A.N stack.
-
-## Problem ##
-  > Survey is hard to design and implement. 
-
-## Solution ##
-  > Why worry about the whole survey methodology and stuff, just use this, simple and easy.
-
-## Quote from You ##
-  > Nope, I do not quote.
-
-## How to Get Started ##
-  > Post a question and wait for you prize.
-
-## Customer Quote ##
-  > "Better than Gallup" - Hillary Clinton /  "Worst idea ever, I have a better plan!" - Donald Trump
-
-## Closing and Call to Action ##
-  > Start posting your question!
+  > A simple youtube player app for practicing React/Redux.
